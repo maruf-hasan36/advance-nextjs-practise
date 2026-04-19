@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": " Headphone",
+      "price": 4500,
+      "category": "Electronics",
+      "stock": 15,
+      "image": "https://via.placeholder.com/150",
+      "description": "High quality wireless headphone with noise cancellation."
+    },
+    {
+      "id": 2,
+      "name": "Gaming Mouse",
+      "price": 1200,
+      "category": "Electronics",
+      "stock": 30,
+      "image": "https://via.placeholder.com/150",
+      "description": "RGB gaming mouse with high precision sensor."
+    },
+    {
+      "id": 3,
+      "name": "Men's T-Shirt",
+      "price": 500,
+      "category": "Fashion",
+      "stock": 50,
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable cotton t-shirt for everyday wear."
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 3500,
+      "category": "Electronics",
+      "stock": 10,
+      "image": "https://via.placeholder.com/150",
+      "description": "Track your fitness and notifications easily."
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "price": 1500,
+      "category": "Accessories",
+      "stock": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Durable backpack for travel and daily use."
+    }
+  ]
+}

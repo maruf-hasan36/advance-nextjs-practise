@@ -13,6 +13,9 @@ const Header = () => {
       <li>
         <Link href="/page"> Page</Link>
       </li>
+      <li>
+        <Link href="/products"> Products</Link>
+      </li>
     </>
   );
   return (
