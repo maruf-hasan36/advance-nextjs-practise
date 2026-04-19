@@ -2,7 +2,9 @@ import Product from "@/components/Product";
 import React from "react";
 
 const productPage = async () => {
-  const res = await fetch("http://localhost:5000/products");
+  const res = await fetch("http://localhost:5000/products", {
+    cache: "force-cache",
+  });
   const products = await res.json();
   return (
     <div>
