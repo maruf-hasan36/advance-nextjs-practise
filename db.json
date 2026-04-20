@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": " Headphone",
+      "name": "Headphone",
       "price": 4500,
       "category": "Electronics",
       "stock": 15,
@@ -44,6 +44,62 @@
       "stock": 20,
       "image": "https://via.placeholder.com/150",
       "description": "Durable backpack for travel and daily use."
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 350,
+      "category": "Self Development",
+      "rating": 4.8,
+      "image": "https://example.com/atomic-habits.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 300,
+      "category": "Finance",
+      "rating": 4.6,
+      "image": "https://example.com/rich-dad.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 280,
+      "category": "Fiction",
+      "rating": 4.7,
+      "image": "https://example.com/alchemist.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 400,
+      "category": "Productivity",
+      "rating": 4.5,
+      "image": "https://example.com/deep-work.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 500,
+      "category": "Programming",
+      "rating": 4.9,
+      "image": "https://example.com/clean-code.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 320,
+      "category": "Motivation",
+      "rating": 4.4,
+      "image": "https://example.com/think-grow-rich.jpg"
     }
   ]
 }
