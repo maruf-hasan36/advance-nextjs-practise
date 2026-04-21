@@ -6,6 +6,7 @@ const BookDetailsPage = async ({ params }) => {
   const { author, price } = await res.json();
   return (
     <div>
+      <h1>All book are here</h1>
       book id : {bookID}
       <h1>{author}</h1>
       <p>{price}</p>
